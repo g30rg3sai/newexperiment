@@ -16,3 +16,8 @@ git add file.txt
 git commit -m "adding file" m is message
 
 git push origin master-----------------
+
+
+if you want to add this updated file in to the local computer
+
+git pull origin master
