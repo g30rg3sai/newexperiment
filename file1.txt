@@ -4,3 +4,15 @@ yo this is first file i am creating the git
 git add file1.txt it will be staging place, ready to commit if you wont add to the staging stage it will just stay
 
 if you want to add all files in the directory to staginf just put git add *
+
+git remote add (nameofthefile here i am using origin) linkthe above one(after creating the repo in github)
+
+
+git push origin master will push all the files to the github
+
+if you want to commit only files you want to then just
+
+git add file.txt
+git commit -m "adding file" m is message
+
+git push origin master-----------------
