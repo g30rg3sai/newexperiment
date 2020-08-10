@@ -2,3 +2,5 @@ yo this is first file i am creating the git
 
 
 git add file1.txt it will be staging place, ready to commit if you wont add to the staging stage it will just stay
+
+if you want to add all files in the directory to staginf just put git add *
